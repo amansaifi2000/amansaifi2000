@@ -2,5 +2,5 @@
 - 👀 I’m a Web Developer.
 - 🌱 Proficient in JavaScript, React JS.
 - 💞️ I’m looking to collaborate on Google
-- 📫 You can reach me on instagram/@amansaifi2000
+- 📫 You can reach me at amansaifi8430@gmail.com.
 ### [Connect with me 💬](https://www.linkedin.com/in/amanalisaifi2000/)
